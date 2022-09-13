@@ -1,6 +1,6 @@
 # how to cite a powerpoint in apa
 
-[![how to cite a powerpoint in apa](gett-stateed.png)](https://github.com/softwaretestinghel/how.to.cite.a.powerpoint.in.apa/)
+[![how to cite a powerpoint in apa](gett-stateed.png)](https://icncomputer.com/how-to-cite-a-powerpoint-in-apa/)
 
 To cite a PowerPoint in text in APA, you include the author and date of the PowerPoint when you are paraphrasing. To make a direct in text citation of a PowerPoint in APA, you include the author, date, and slide number.
 
